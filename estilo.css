@@ -1,0 +1,44 @@
+body{
+	background: #333300;
+}
+
+#conteudo-principal{
+	
+	width: 1920px;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin: 1px;
+	
+}
+
+.titulo{
+	
+	background: purple;
+	width: 1920px;
+	
+	
+}
+
+#imagemprincipal{
+	
+	width: 1920;
+	
+}
+
+
+
+#conteudo-esquerda{
+	width: 610px;
+	height: auto;
+	float: left;
+}
+#conteudo-centro{
+	width: 610px;
+	height: auto;
+	float: left;
+}
+.banner{
+	width:610px;
+	height: 375px;
+}
